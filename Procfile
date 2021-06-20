@@ -1,1 +1,1 @@
-web: gunicorn melbourneuberapp:server
+web: gunicorn mysterious-shore-61614:server
