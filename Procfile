@@ -1,1 +1,1 @@
-web: gunicorn mysterious-shore-61614:server
+web: gunicorn UberApplication:server
