@@ -1,1 +1,1 @@
-web: gunicorn mysterious-shore-61614:sever
+web: gunicorn mysterious-shore-61614:server
